@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       
       
-          React
+          React test shmall 
       
     </div>
   );
